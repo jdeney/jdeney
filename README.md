@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://www.itps.org.br/pca/arquivos/3f2f9ef0bb1b_deney-azul-10cm.png" width="120" style="border-radius: 50%;" alt="Avatar de Deney Araujo"/>
-</p>
 
 <h1 align="center">Deney Araujo, PhD</h1>
 
