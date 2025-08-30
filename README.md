@@ -2,7 +2,7 @@
 <h1 align="center">Deney Araujo, PhD</h1>
 
 <p align="center">
-  <em>Engenheiria de Dados | Desenvolvedor LLM | Epidemiologia Digital</em><br>
+  <em>Engenharia de Dados | Desenvolvedor LLM | Epidemiologia Digital</em><br>
   <em>Co-fundador da D2DNA | Medblast | Pesquisador no ITpS</em>
 </p>
 
