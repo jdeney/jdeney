@@ -16,7 +16,7 @@
 
 ---
 
-## 🧬 Sobre Mim
+## Sobre Mim
 
 Sou pesquisador e desenvolvedor no **Instituto de Tecnologia e Pesquisa em Saúde (ITpS)**, atuando na criação de soluções para transformar dados brutos em inteligência epidemiológica. Com experiência em pesquisa aplicada, lidero o desenvolvimento de sistemas robustos para integração e visualização de grandes volumes de dados de sáude, demográficos e genômicos.
 
@@ -31,19 +31,18 @@ Minhas principais frentes:
 
 ---
 
-## 🛰️ Destaques em Produção
+## Destaques em Produção
 
-| Projeto     | Descrição                                                                 | Status        |
-|-------------|---------------------------------------------------------------------------|---------------|
-| `Sinapse`   | Plataforma modular com LLMs e APIs para modelagem de dados em saúde       | 🧠 Em dev      |
-| `Detecta`   | Sistema de detecção de surtos em tempo real                               | 🧠 Em dev      |
-| `Saved`     | Sistema Automatizado de Vigilância Epidemiológica Digital                 | 🚀 Em produção |
-| `Medblast`  | Tecnologia proprietária de Record Linkage usando DNA                      | 🧬 Estável     |
-| `Linha da Vida` | Visualização cronológica e interativa do histórico de pacientes       | 🩺 Implantado  |
+| Projeto     | Descrição                                                                 | Status      |
+|-------------|---------------------------------------------------------------------------|-------------|
+| `Sinapse`   | Plataforma modular com LLMs e APIs para modelagem de dados em saúde       | Em dev      |
+| `Detecta`   | Sistema de detecção de surtos em tempo real                               | Em dev      |
+| `Medblast`  | Tecnologia proprietária de Record Linkage usando DNA                      | Estável     |
+| `Linha da Vida` | Visualização cronológica e interativa do histórico de pacientes       | Implantado  |
 
 ---
 
-## 🧰 Stack Tecnológica
+## Stack Tecnológica
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-2d2d2d?style=flat-square&logo=python" />
@@ -67,16 +66,16 @@ Minhas principais frentes:
 
 ---
 
-## 🧪 Explorando Atualmente
+## Explorando Atualmente
 
-- 🌐 IA generativa aplicada à vigilância epidemiológica
-- 🧠 Modelos fonéticos híbridos e validação de identidade
-- 🧬 Record Linkage de Big data
-- 📊 Dashboards temporais com redes de reincidência e timelines
+- IA generativa aplicada à vigilância epidemiológica
+- Modelos fonéticos híbridos e validação de identidade
+- Record Linkage de Big data
+- Dashboards temporais com redes de reincidência e timelines
 
 ---
 
-## 🧬 Sobre a D2DNA
+## Sobre a D2DNA
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/156236686?s=400&u=81fb930de058bdcd7dc2af8f3c02d6ce79ab7bad&v=4" height="150" alt="Logo D2DNA"/>
